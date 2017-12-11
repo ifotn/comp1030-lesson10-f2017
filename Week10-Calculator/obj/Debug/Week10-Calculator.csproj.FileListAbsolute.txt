@@ -1,0 +1,8 @@
+C:\Users\RFreeman\OneDrive\Documents\Teaching\COMP1030\Week 10\UnitTesting-Starter\Week10-Calculator\Week10-Calculator\bin\Debug\Week10-Calculator.exe.config
+C:\Users\RFreeman\OneDrive\Documents\Teaching\COMP1030\Week 10\UnitTesting-Starter\Week10-Calculator\Week10-Calculator\bin\Debug\Week10-Calculator.exe
+C:\Users\RFreeman\OneDrive\Documents\Teaching\COMP1030\Week 10\UnitTesting-Starter\Week10-Calculator\Week10-Calculator\bin\Debug\Week10-Calculator.pdb
+C:\Users\RFreeman\OneDrive\Documents\Teaching\COMP1030\Week 10\UnitTesting-Starter\Week10-Calculator\Week10-Calculator\obj\Debug\Week10_Calculator.Properties.Resources.resources
+C:\Users\RFreeman\OneDrive\Documents\Teaching\COMP1030\Week 10\UnitTesting-Starter\Week10-Calculator\Week10-Calculator\obj\Debug\Week10-Calculator.csproj.GenerateResource.Cache
+C:\Users\RFreeman\OneDrive\Documents\Teaching\COMP1030\Week 10\UnitTesting-Starter\Week10-Calculator\Week10-Calculator\obj\Debug\Week10-Calculator.csproj.CoreCompileInputs.cache
+C:\Users\RFreeman\OneDrive\Documents\Teaching\COMP1030\Week 10\UnitTesting-Starter\Week10-Calculator\Week10-Calculator\obj\Debug\Week10-Calculator.exe
+C:\Users\RFreeman\OneDrive\Documents\Teaching\COMP1030\Week 10\UnitTesting-Starter\Week10-Calculator\Week10-Calculator\obj\Debug\Week10-Calculator.pdb
