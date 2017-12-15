@@ -120,14 +120,15 @@ namespace Week10_Calculator
                         currentTotal *= newValue;
                         break;
                     case "/":
-                        //if (newValue == 0)
-                        //{
-                        //    btnDisplay.Text = "";
-                        //}
-                        //else
-                        //{ 
+                        if (newValue == 0) // cannot divide by zero
+                        {
+                            btnDisplay.Text = "ERROR";
+                        }
+                        else // 2nd number is not zero, so we can divide
+                        {
                             currentTotal /= newValue;
-                        //}
+                        } 
+                        
                         break;
                     default:
                         currentTotal = newValue;
@@ -169,7 +170,11 @@ namespace Week10_Calculator
                 // perform calculation
                 Calculate(x);
             }
-            btnDisplay.Text = Convert.ToString(currentTotal);
+            if (btnDisplay.Text != "ERROR")  // != means not equal to
+            {
+                btnDisplay.Text = Convert.ToString(currentTotal);
+            }
+            
             firstInput = true;
         }
 
